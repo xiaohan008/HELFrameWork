@@ -1,0 +1,16 @@
+PODS:
+  - HELFrameWork (0.1.0)
+
+DEPENDENCIES:
+  - HELFrameWork (from `../`)
+
+EXTERNAL SOURCES:
+  HELFrameWork:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  HELFrameWork: 596f1b952822e033ac962e2ea554bc5ad3d3895f
+
+PODFILE CHECKSUM: d24577d3e4212c0fd536db4566a56512ade527a3
+
+COCOAPODS: 1.11.2

@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '9.0'
+
+target 'HELFrameWork_Example' do
+  pod 'HELFrameWork', :path => '../'
+
+  target 'HELFrameWork_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
